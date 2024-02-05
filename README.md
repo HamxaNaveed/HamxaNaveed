@@ -24,6 +24,6 @@ I am an Expert Full-stack Rails developer with 3+ years of experience of buildin
 
 **Reach me**
 
-<a href="mailto:officialhamxa@gmail.com"><img alt=" Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" /></a>
-<a href="https://www.linkedin.com/in/hamxa-naveed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:officialhamxa@gmail.com"><img alt=" Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hamxa-naveed/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
